@@ -1,8 +1,6 @@
 # Whole-Foods-Grocery-Delivery-Script
 Proof of concept for my Senior Capstone Project in CS.
 
-# Amazon Fresh Auto-Ordering Bot
-
 ## Overview
 
 This Python script is designed to automate the process of ordering groceries from Amazon Fresh. It utilizes the Selenium library to interact with the Amazon Fresh website, searching for specific ingredients and adding them to the cart.
