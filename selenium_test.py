@@ -158,10 +158,6 @@ def main():
     # - Wait for cookies to save.
     # - Do the same for Amazon; manually navigate and sign in, wait for cookies to save.
     else:
-        print("GO SIGN IN TO BING! 60 seconds to do so.")
-        time.sleep(60)
-        save_cookie(driver, "bingcookies.json")
-        print("SAVED BING COOKIES (hopefully)!")
         print("GO SIGN IN TO AMAZON! 60 seconds to do so.")
         time.sleep(60)
         save_cookie(driver, "cookies.json")
