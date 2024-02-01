@@ -1,5 +1,5 @@
 # Whole-Foods-Grocery-Delivery-Script
-Proof of concept for my Senior Capstone Project in CS.
+Proof of concept for my Senior Capstone Project in CS. **Requires Subscription to Amazon Prime to be functional**
 
 ## Overview
 
