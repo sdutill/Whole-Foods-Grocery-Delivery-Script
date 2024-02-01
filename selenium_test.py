@@ -150,7 +150,7 @@ def main():
     driver = webdriver.Edge(service=edge_service, options=edge_options)
 
     # Regular runs
-    if True:
+    if False:
         order(driver)
     # First-time setup:
     # - Set the above boolean to false
